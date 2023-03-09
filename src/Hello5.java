@@ -9,6 +9,7 @@ public class Hello5 {
 		System.out.println("Hello2");
 		System.out.println("찐 마지막");
 		System.out.println("찐 마지막");
+		System.out.println("복습");
 	}
 
 }
